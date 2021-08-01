@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+h1, h2 {
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    text-align: center;
+}
+.header {
+    background-color: pink;
+    height: 100px;
+    text-align: center;
+    color:powderblue
+}
+* {
+box-sizing: border-box;
+}
+.left-col {
+    background-color: blue;
+    width: 33%;
+    float: left;
+}
+.center-col {
+    background-color: yellow;
+    width: 34%;
+    float: left;
+}
+.right-col {
+    width: 33%
+}
