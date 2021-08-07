@@ -1,0 +1,32 @@
+let x = 5; //dividing number by 2 
+
+if ( x % 2 == 0) {
+	alert('Even Number');
+}else{
+	alert('Odd Number');
+}
+console.log(x) ;
+
+let y = 3;
+if ( y % 2 == 0) {
+	alert('Even Number');
+}else{
+	alert('Odd Number');
+}
+console.log(y) ;
+
+let z = 2;
+if ( z % 2 == 0) {
+	alert('Even Number');
+}else{
+	alert('Odd Number');
+}
+console.log(z) ;
+
+let number = prompt("Enter a number: ");
+if(number % 2 == 0) {
+    console.log("The number is even.");
+}
+else {
+    console.log("The number is odd.");
+}
